@@ -1,0 +1,1 @@
+loadstring(game: HttpGet("https://raw.githubusercontent.com/the6niner/SH/main/main.lua"))()
